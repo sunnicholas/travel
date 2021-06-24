@@ -40,6 +40,9 @@ npm install stylus-loader@3.0.1 --save
 在webpack修改别名：'styles': resolve('src/assets/styles'),
 需要重启服务
 
+7.3
+轮播图
+npm install vue-awesome-swiper@2.6.7 --save
 
 ```
 
